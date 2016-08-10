@@ -8,7 +8,7 @@ First, thanks for reading this, follow these steps:
 4-Start Team Fortress 2
 5-Have fun! :D
 
-For any problem go to this link(My profile in Steam) and ask me for help:
+For any problem go to this link (My profile in Steam) and ask me for help:
 http://steamcommunity.com/profiles/76561197995706966/
 --------------------------------------------------------------------------
 For Portuguese people(Para pessoas "que falam portugues")
