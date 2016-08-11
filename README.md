@@ -8,8 +8,9 @@ First, thanks for reading this, follow these steps:
 4-Start Team Fortress 2
 5-Have fun! :D
 
-For any problem go to this link (My profile in Steam) and ask me for help:
-http://steamcommunity.com/profiles/76561197995706966/
+For any problem go to this these links and ask for help:
+http://steamcommunity.com/profiles/76561197995706966/ (Galeguinho)
+http://steamcommunity.com/profiles/76561198165650794  (EpicShot)
 --------------------------------------------------------------------------
 For Portuguese people(Para pessoas "que falam portugues")
 
@@ -19,9 +20,12 @@ Primeiro, obrigado por ler isso, siga esses passos:
 2-Nomeie de CakeHUD
 3-Extraia os arquivos do CakeHUD.zip para sua Pasta(CakeHUD)
 4-Inicie o Team Fortress 2
-5-Se divirta :D
+5-Divirta-se :D
 
-Para qualquer problema vá para esse link(Meu perfil na Steam) e peça ajuda para mim:
-http://steamcommunity.com/profiles/76561197995706966/
+Para qualquer problema vá para esses links e peça ajuda:
+http://steamcommunity.com/profiles/76561197995706966/ (Galeguinho)
+http://steamcommunity.com/profiles/76561198165650794  (EpicShot)
 
-Galeguinho(Developer/Desenvolvedor)
+
+
+Galeguinho and EpicShot (Developers)
