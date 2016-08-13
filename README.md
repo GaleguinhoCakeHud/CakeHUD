@@ -26,6 +26,13 @@ Para qualquer problema vá para esses links e peça ajuda:
 http://steamcommunity.com/profiles/76561197995706966/ (Galeguinho)
 http://steamcommunity.com/profiles/76561198165650794  (EpicShot)
 
+-------------------------------------------------------------------------
+UPDATES:
+
+(08/09/2016)CakeHUD added/CakeHUD adicionado
+(08/13/2016)Loading and background images are customized/Carregamento e imagens de fundo foram customizadas
+
+-------------------------------------------------------------------------
 
 
 Galeguinho and EpicShot (Developers)
