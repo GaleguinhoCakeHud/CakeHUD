@@ -1,4 +1,0 @@
-(08/09/2016)CakeHUD added/CakeHUD adicionado 
-            Loading and background images are customized/Carregamento e imagens de fundo foram customizadas.
-(08/15/2016)An installer as been added in CakeHUD.zip folder/Um instalador foi adicionado no CakeHUD.zip
-            Updates.txt as been added in CakeHUD.zip/Updates.txt foi adicionado em CakeHUD.zip
