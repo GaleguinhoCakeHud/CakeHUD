@@ -8,6 +8,8 @@ First, thanks for reading this, follow these steps:
 4-Start Team Fortress 2
 5-Have fun! :D
 
+PS:You can vereficate the arquive, the windows will tell "Windows Protected your computer". Is not virus 
+
 For any problem go to this these links and ask for help:
 http://steamcommunity.com/profiles/76561197995706966/ (Galeguinho)
 http://steamcommunity.com/profiles/76561198165650794  (EpicShot)
@@ -21,6 +23,8 @@ Primeiro, obrigado por ler isso, siga esses passos:
 3-Extraia os arquivos do CakeHUD.zip para sua Pasta(CakeHUD)
 4-Inicie o Team Fortress 2
 5-Divirta-se :D
+
+PS:Você pode vereficar o arquivo, o windos vai dizer "Windows Proteger seu computador". Não é vírus.
 
 Para qualquer problema vá para esses links e peça ajuda:
 http://steamcommunity.com/profiles/76561197995706966/ (Galeguinho)
