@@ -9,7 +9,7 @@ First, thanks for reading this, follow these steps:
 5-Have fun! :D
 
 PS:You can vereficate the arquive, the windows will tell "Windows Protected your computer". Is not virus 
-If you want to download the zip. Got to this link:https://github.com/GaleguinhoCakeHud/CakeHUD-Alternative-
+If you want to download the zip. Go to this link:https://github.com/GaleguinhoCakeHud/CakeHUD-Alternative-
 
 For any problem go to this these links and ask for help:
 http://steamcommunity.com/profiles/76561197995706966/ (Galeguinho)
@@ -25,7 +25,7 @@ Primeiro, obrigado por ler isso, siga esses passos:
 4-Inicie o Team Fortress 2
 5-Divirta-se :D
 
-PS:Você pode vereficar o arquivo, o windos vai dizer "Windows Proteger seu computador". Não é vírus.
+PS:Você pode vereficar o arquivo, o Windows vai dizer "Windows Protegeu seu computador". Não é vírus.
 Se você quiser fazer download do zip. Vá para esse link: https://github.com/GaleguinhoCakeHud/CakeHUD-Alternative-
 
 Para qualquer problema vá para esses links e peça ajuda:
