@@ -9,7 +9,7 @@ First, thanks for reading this, follow these steps:
 5-Have fun! :D
 
 PS:You can verify the archive, Windows will tell "Windows Protected your computer". Is not virus 
-If you want to download the zip. Go to this link:https://github.com/GaleguinhoCakeHud/CakeHUD-Alternative-
+If you want to download the zip. Go to this link: https://github.com/GaleguinhoCakeHud/CakeHUD-Alternative-
 
 For any problem go to this these links and ask for help:
 http://steamcommunity.com/profiles/76561197995706966/ (Galeguinho)
