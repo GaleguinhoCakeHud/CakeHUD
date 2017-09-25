@@ -8,7 +8,7 @@ First, thanks for reading this, follow these steps:
 4-Start Team Fortress 2
 5-Have fun! :D
 
-PS:You can vereficate the arquive, the windows will tell "Windows Protected your computer". Is not virus 
+PS:You can verify the archive, Windows will tell "Windows Protected your computer". Is not virus 
 If you want to download the zip. Go to this link:https://github.com/GaleguinhoCakeHud/CakeHUD-Alternative-
 
 For any problem go to this these links and ask for help:
